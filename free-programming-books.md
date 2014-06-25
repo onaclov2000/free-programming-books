@@ -233,6 +233,7 @@
 ####Programming Paradigms
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) (class lectures and slides)
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+* [Programming Pardigms for Dummies: What Every Programmer Should Know](http://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
 ####Parallel Programming
 * [How to Write Parallel Programs](http://www.lindaspaces.com/book/)
